@@ -1,0 +1,16 @@
+[submodule "Assets/latkUnity"]
+	path = Assets/latkUnity
+	url = https://github.com/LightningArtist/latkUnity
+
+[submodule "Assets/latkxSteamVR"]
+	path = Assets/latkxSteamVR
+	url = https://github.com/n1ckfg/latkxSteamVR
+[submodule "Assets/latkxColorPicker"]
+	path = Assets/latkxColorPicker
+	url = https://github.com/n1ckfg/latkxColorPicker
+[submodule "Assets/latkxWacom"]
+	path = Assets/latkxWacom
+	url = https://github.com/n1ckfg/latkxWacom
+[submodule "Assets/latkxNetwork"]
+	path = Assets/latkxNetwork
+	url = https://github.com/n1ckfg/latkxNetwork
