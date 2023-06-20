@@ -17,7 +17,7 @@ git submodule foreach git checkout master
 git submodule foreach git reset --hard
 git submodule foreach git pull origin master
 
-BASE_URL="https://fox-gieg.com/patches/github/n1ckfg/latkUnity_ViveSR/Assets"
+BASE_URL="https://fox-gieg.com/patches/github/n1ckfg/latkUnity_ViveSR/Assets/ViveSR"
 cd Assets
 wget "$BASE_URL/Plugins.zip"
 unzip Plugins.zip
