@@ -11,7 +11,7 @@ set BASE_URL="https://fox-gieg.com/patches/github/n1ckfg/latkUnity_ViveSR/Assets
 cd %~dp0
 
 powershell -Command "Invoke-WebRequest %BASE_URL%/Plugins.zip -OutFile Plugins.zip"
-powershell Expand-Archive Plugins.zip -DestinationPath Assets
+powershell Expand-Archive Plugins.zip -DestinationPath Assets/ViveSR
 del Plugins.zip
 
 @pause
